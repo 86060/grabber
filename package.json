@@ -1,0 +1,24 @@
+{
+  "name": "grabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/86060/grabber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/86060/grabber/issues"
+  },
+  "homepage": "https://github.com/86060/grabber#readme",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
